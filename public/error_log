@@ -1,0 +1,109 @@
+[10-Jun-2023 12:09:27 UTC] RE1
+[10-Jun-2023 12:09:27 UTC] RE2
+[10-Jun-2023 12:09:27 UTC] RE3
+[10-Jun-2023 12:09:27 UTC] RE4
+[10-Jun-2023 12:09:27 UTC] RE5
+[10-Jun-2023 12:09:27 UTC] RE6
+[10-Jun-2023 12:10:31 UTC] ss
+[10-Jun-2023 12:10:31 UTC] vv
+[10-Jun-2023 12:10:31 UTC] dd
+[10-Jun-2023 12:10:31 UTC] hh
+[10-Jun-2023 12:10:31 UTC] kk
+[10-Jun-2023 12:10:31 UTC] mm
+[10-Jun-2023 12:11:51 UTC] new1
+[10-Jun-2023 12:11:51 UTC] new2
+[10-Jun-2023 12:11:51 UTC] new3
+[10-Jun-2023 12:30:17 UTC] {"id":"13","Name":"Fran\u00e7ais","exam_date":"2023-06-10 13:23:00","exam_end":"2023-06-10 14:00:00","filiere_id":"6","created_at":"2023-06-10 12:08:21","updated_at":"2023-06-10 12:08:21"}
+[10-Jun-2023 12:30:42 UTC] {"id":"13","Name":"Fran\u00e7ais","exam_date":"2023-06-10 13:23:00","exam_end":"2023-06-10 14:00:00","filiere_id":"6","created_at":"2023-06-10 12:08:21","updated_at":"2023-06-10 12:08:21"}
+[10-Jun-2023 12:30:42 UTC] [{"id":"18","question":"1686398967.jpeg","type":"mono","id_etudiant":4,"id_exam":"13","options":["RE1","RE2","RE3","RE4","RE5","RE6"]}]
+[10-Jun-2023 12:30:44 UTC] {"id":"13","Name":"Fran\u00e7ais","exam_date":"2023-06-10 13:23:00","exam_end":"2023-06-10 14:00:00","filiere_id":"6","created_at":"2023-06-10 12:08:21","updated_at":"2023-06-10 12:08:21"}
+[10-Jun-2023 12:30:44 UTC] [{"id":"18","question":"1686398967.jpeg","type":"mono","id_etudiant":3,"id_exam":"13","options":["RE1","RE2","RE3","RE4","RE5","RE6"]}]
+[10-Jun-2023 12:30:50 UTC] {"id":"13","Name":"Fran\u00e7ais","exam_date":"2023-06-10 13:23:00","exam_end":"2023-06-10 14:00:00","filiere_id":"6","created_at":"2023-06-10 12:08:21","updated_at":"2023-06-10 12:08:21"}
+[10-Jun-2023 12:30:50 UTC] [{"id":"18","question":"1686398967.jpeg","type":"mono","id_etudiant":3,"id_exam":"13","options":["RE1","RE2","RE3","RE4","RE5","RE6"]}]
+[10-Jun-2023 12:32:40 UTC] {"id":"13","Name":"Fran\u00e7ais","exam_date":"2023-06-10 13:23:00","exam_end":"2023-06-10 14:00:00","filiere_id":"6","created_at":"2023-06-10 12:08:21","updated_at":"2023-06-10 12:08:21"}
+[10-Jun-2023 12:32:40 UTC] [{"id":"18","question":"1686398967.jpeg","type":"mono","id_etudiant":3,"id_exam":"13","options":["RE1","RE2","RE3","RE4","RE5","RE6"]}]
+[10-Jun-2023 12:32:56 UTC] {"id":"13","Name":"Fran\u00e7ais","exam_date":"2023-06-10 13:23:00","exam_end":"2023-06-10 14:00:00","filiere_id":"6","created_at":"2023-06-10 12:08:21","updated_at":"2023-06-10 12:08:21"}
+[10-Jun-2023 12:32:56 UTC] [{"id":"18","question":"1686398967.jpeg","type":"mono","id_etudiant":4,"id_exam":"13","options":["RE1","RE2","RE3","RE4","RE5","RE6"]}]
+[10-Jun-2023 12:34:06 UTC] {"id":"13","Name":"Fran\u00e7ais","exam_date":"2023-06-10 13:23:00","exam_end":"2023-06-10 14:00:00","filiere_id":"6","created_at":"2023-06-10 12:08:21","updated_at":"2023-06-10 12:08:21"}
+[10-Jun-2023 12:34:06 UTC] [{"id":"18","question":"1686398967.jpeg","type":"mono","id_etudiant":4,"id_exam":"13","options":["RE1","RE2","RE3","RE4","RE5","RE6"]}]
+[10-Jun-2023 12:34:08 UTC] {"id":"13","Name":"Fran\u00e7ais","exam_date":"2023-06-10 13:23:00","exam_end":"2023-06-10 14:00:00","filiere_id":"6","created_at":"2023-06-10 12:08:21","updated_at":"2023-06-10 12:08:21"}
+[10-Jun-2023 12:34:08 UTC] [{"id":"18","question":"1686398967.jpeg","type":"mono","id_etudiant":3,"id_exam":"13","options":["RE1","RE2","RE3","RE4","RE5","RE6"]}]
+[10-Jun-2023 12:35:07 UTC] 13
+[10-Jun-2023 12:35:07 UTC] [{"question_img_path":"1686398967.jpeg","id":"18","question_type":"mono"},{"question_img_path":"1686399031.jpeg","id":"19","question_type":"mono"}]
+[10-Jun-2023 12:35:08 UTC] 13
+[10-Jun-2023 12:35:08 UTC] [{"question_img_path":"1686398967.jpeg","id":"18","question_type":"mono"},{"question_img_path":"1686399031.jpeg","id":"19","question_type":"mono"}]
+[10-Jun-2023 12:36:07 UTC] 13
+[10-Jun-2023 12:36:07 UTC] [{"question_img_path":"1686398967.jpeg","id":"18","question_type":"mono"},{"question_img_path":"1686399031.jpeg","id":"19","question_type":"mono"}]
+[10-Jun-2023 12:36:09 UTC] 13
+[10-Jun-2023 12:36:09 UTC] [{"question_img_path":"1686398967.jpeg","id":"18","question_type":"mono"},{"question_img_path":"1686399031.jpeg","id":"19","question_type":"mono"}]
+[10-Jun-2023 12:42:14 UTC] {"id":"13","Name":"Fran\u00e7ais","exam_date":"2023-06-10 13:23:00","exam_end":"2023-06-10 14:00:00","filiere_id":"6","created_at":"2023-06-10 12:08:21","updated_at":"2023-06-10 12:08:21"}
+[10-Jun-2023 12:42:14 UTC] [{"id":"18","question":"1686398967.jpeg","type":"mono","id_etudiant":3,"id_exam":"13","options":["RE1","RE2","RE3","RE4","RE5","RE6"]}]
+[10-Jun-2023 12:42:30 UTC] {"id":"13","Name":"Fran\u00e7ais","exam_date":"2023-06-10 13:23:00","exam_end":"2023-06-10 14:00:00","filiere_id":"6","created_at":"2023-06-10 12:08:21","updated_at":"2023-06-10 12:08:21"}
+[10-Jun-2023 12:42:30 UTC] [{"id":"18","question":"1686398967.jpeg","type":"mono","id_etudiant":3,"id_exam":"13","options":["RE1","RE2","RE3","RE4","RE5","RE6"]}]
+[10-Jun-2023 12:43:14 UTC] 13
+[10-Jun-2023 12:43:14 UTC] [{"question_img_path":"1686398967.jpeg","id":"18","question_type":"mono"},{"question_img_path":"1686399031.jpeg","id":"19","question_type":"mono"}]
+[10-Jun-2023 18:35:55 UTC] + infini
+[10-Jun-2023 18:35:55 UTC] - infini
+[10-Jun-2023 18:35:55 UTC] 0
+[10-Jun-2023 18:35:55 UTC] 1
+[10-Jun-2023 18:36:20 UTC] null
+[10-Jun-2023 18:38:54 UTC] null
+[10-Jun-2023 18:39:05 UTC] null
+[10-Jun-2023 18:40:02 UTC] {"id":"15","Name":"Math","exam_date":"2023-06-10 19:40:00","exam_end":"2023-06-17 19:45:00","filiere_id":"6","created_at":"2023-06-10 18:34:37","updated_at":"2023-06-10 18:34:37"}
+[10-Jun-2023 18:40:02 UTC] [{"id":"21","question":"1686422155.png","type":"mono","id_etudiant":4,"id_exam":"15","options":["+ infini","- infini","0","1"]}]
+[10-Jun-2023 18:41:02 UTC] 15
+[10-Jun-2023 18:41:02 UTC] [{"question_img_path":"1686422155.png","id":"21","question_type":"mono"}]
+[11-Jun-2023 14:11:10 UTC] {"id":"15","Name":"Math","exam_date":"2023-06-10 19:40:00","exam_end":"2023-06-17 19:45:00","filiere_id":"6","created_at":"2023-06-10 18:34:37","updated_at":"2023-06-10 18:34:37"}
+[11-Jun-2023 23:39:39 UTC] {"id":"15","Name":"Math","exam_date":"2023-06-10 19:40:00","exam_end":"2023-06-17 19:45:00","filiere_id":"6","created_at":"2023-06-10 18:34:37","updated_at":"2023-06-10 18:34:37"}
+[11-Jun-2023 23:39:39 UTC] [{"id":"21","question":"1686422155.png","type":"mono","id_etudiant":3,"id_exam":"15","options":["+ infini","- infini","0","1"]}]
+[11-Jun-2023 23:40:40 UTC] 15
+[11-Jun-2023 23:40:40 UTC] [{"question_img_path":"1686422155.png","id":"21","question_type":"mono"}]
+[11-Jun-2023 23:41:58 UTC] {"id":"15","Name":"Math","exam_date":"2023-06-10 19:40:00","exam_end":"2023-06-17 19:45:00","filiere_id":"6","created_at":"2023-06-10 18:34:37","updated_at":"2023-06-10 18:34:37"}
+[12-Jun-2023 10:25:12 UTC] null
+[12-Jun-2023 10:26:44 UTC] null
+[12-Jun-2023 10:36:27 UTC] 0
+[12-Jun-2023 10:36:27 UTC] 1
+[12-Jun-2023 10:36:27 UTC] +∞
+[12-Jun-2023 10:38:01 UTC] 0
+[12-Jun-2023 10:38:01 UTC] 1
+[12-Jun-2023 10:38:01 UTC] -∞
+[12-Jun-2023 11:57:48 UTC] 1
+[12-Jun-2023 11:57:48 UTC] 0
+[12-Jun-2023 11:57:48 UTC] +∞
+[12-Jun-2023 16:33:24 UTC] A
+[12-Jun-2023 16:33:24 UTC] B
+[12-Jun-2023 16:33:24 UTC] C
+[12-Jun-2023 16:34:05 UTC] A
+[12-Jun-2023 16:34:05 UTC] B
+[12-Jun-2023 16:34:05 UTC] C
+[12-Jun-2023 16:34:05 UTC] D
+[12-Jun-2023 16:36:38 UTC] A
+[12-Jun-2023 16:36:38 UTC] B
+[12-Jun-2023 16:36:38 UTC] C
+[12-Jun-2023 16:36:38 UTC] D
+[12-Jun-2023 16:37:37 UTC] RE1
+[12-Jun-2023 16:37:37 UTC] RE2
+[12-Jun-2023 16:37:37 UTC] RE3
+[12-Jun-2023 16:37:37 UTC] RE4
+[12-Jun-2023 16:38:21 UTC] RE1
+[12-Jun-2023 16:38:21 UTC] RE2
+[12-Jun-2023 16:38:21 UTC] RE3
+[12-Jun-2023 16:38:21 UTC] RE4
+[12-Jun-2023 16:38:21 UTC] 
+[12-Jun-2023 16:39:14 UTC] RE1
+[12-Jun-2023 16:39:14 UTC] RE2
+[12-Jun-2023 16:39:14 UTC] RE3
+[12-Jun-2023 16:39:14 UTC] RE4
+[12-Jun-2023 16:39:14 UTC] 
+[12-Jun-2023 16:40:47 UTC] RE1
+[12-Jun-2023 16:40:47 UTC] RE2
+[12-Jun-2023 16:40:47 UTC] RE3
+[12-Jun-2023 16:41:26 UTC] RE1
+[12-Jun-2023 16:41:26 UTC] RE2
+[12-Jun-2023 16:41:26 UTC] RE3
+[12-Jun-2023 16:41:26 UTC] RE4
+[12-Jun-2023 16:42:36 UTC] RE1
+[12-Jun-2023 16:42:36 UTC] RE2
+[12-Jun-2023 16:42:36 UTC] RE3
+[12-Jun-2023 16:42:36 UTC] RE4
+[12-Jun-2023 16:42:36 UTC] 
